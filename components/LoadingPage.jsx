@@ -66,7 +66,7 @@ const LoadingPage = () => {
         background: `radial-gradient(circle at 50% 50%, #2a2e36, #272a32, #24272d, #202329, #1d2024, #1a1c20, #17191c, #141518, #101114, #0b0c0e, #060608, #000000)`,
       }}
     >
-      <div className="gap-[5vw] laptop:gap-[2vw] flex-col w-[60vw] lg:w-[40vw] relative flex">
+      <div className="gap-[5vw] laptop:gap-[2vw] flex-col w-[60vw] lg:w-[40vw] relative flex text-white">
         <div className="flex items-center justify-center relative w-full">
           <h1 className="a absolute font-iskry text-[4vw] laptop:text-[2vw] ">
             Psychologist
