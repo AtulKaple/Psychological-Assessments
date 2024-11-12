@@ -1,11 +1,11 @@
-import React from "react";
+import React, { useState } from "react";
 import NavItems from "./NavItems";
 
 const NavBar = () => {
-  const [menuIsOpen, setMenuIsOpen] = React.useState(false);
+  const [menuIsOpen, setMenuIsOpen] = useState(false);
   return (
     <>
-      <div className="h-[100vh] w-full flex absolute justify-center z-50 ">
+      <div className="h-[100vh] w-full flex absolute justify-center z-50 text-white ">
         <div
           className={`navbar flex items-center h-[8vh] laptop:h-[12vh] w-[95%] border-b ${
             menuIsOpen ? "border-black" : "border-white"

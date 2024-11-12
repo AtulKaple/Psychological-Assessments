@@ -126,7 +126,7 @@ const Heropage = () => {
           </h2>
         </div>
         <div className="overflow-hidden">
-          <h2 className="talk font-iskry text-[6vw] laptop:text-[3vw]">
+          <h2 className="talk font-iskry text-[6vw] laptop:text-[3vw] text-white">
             Digital tool for,
           </h2>
         </div>
@@ -142,7 +142,7 @@ const Heropage = () => {
           <div className="talk flex items-center">
             {" "}
             <div className="divtwo h-[0.5vw] w-[18vw] laptop:w-[15vw] bg-white  "></div>
-            <h1 className="headtwo w-[90%] laptop:w-[100%] overflow-hidden font-stratos text-[9vw] leading-[9vw] laptop:text-[7vw] laptop:leading-[7vw] uppercase text-left   ">
+            <h1 className="headtwo w-[90%] laptop:w-[100%] overflow-hidden font-stratos text-white text-[9vw] leading-[9vw] laptop:text-[7vw] laptop:leading-[7vw] uppercase text-left   ">
               Assessments
             </h1>
           </div>

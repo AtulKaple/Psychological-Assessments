@@ -16,7 +16,7 @@ const AssCard = ({ src }) => {
         className=" h-[30%] w-full rounded-[1.5vw] flex justify-center text-[4.4vw] laptop:text-[2.2vw] font-iskry font-semibold mt- "
         style={{ backgroundColor: "rgba(255, 255, 255, 0.13)" }}
       >
-        <h4 className="mt-[0.4vw]">Assessment 1</h4>
+        <h4 className="mt-[0.4vw] text-white">Assessment 1</h4>
       </div>
       <div className="circle absolute h-[16vw] w-[16vw] laptop:h-[8vw] laptop:w-[8vw] rounded-full top-[16%] flex items-center justify-center  ">
         <div className="innerCircle h-[13vw] w-[13vw]  laptop:h-[6.5vw] laptop:w-[6.5vw] rounded-full bg-black flex items-center justify-center  ">
@@ -34,7 +34,7 @@ const AssCard = ({ src }) => {
         style={{ backgroundColor: "rgba(255, 255, 255, 0.13)" }}
       >
         <div className=" mt-[12.5%] laptop:mt-[20%] ">
-          <p className="text-center font-rules text-[3vw] laptop:text-[1.26vw] ">
+          <p className="text-center font-rules text-[3vw] laptop:text-[1.26vw] text-white ">
             We can write any short info about the assessment here. Lorem ipsum
             dolor sit amet.
           </p>

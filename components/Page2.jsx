@@ -41,7 +41,7 @@ const Page2 = () => {
   });
   return (
     <div className="secondPage h-[100vh] w-full flex items-center justify-center text-[6vw] leading-[10vw] laptop:text-[3vw] laptop:leading-[4vw] font-rules text-center   ">
-      <div className="flex flex-col items-center justify-center gap-[6vw] laptop:gap-[2vw] ">
+      <div className="flex flex-col items-center justify-center gap-[6vw] laptop:gap-[2vw] text-white ">
         <h3 className="">
           <span className="spans overflow-hidden">
             Developed using one of the most

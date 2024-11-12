@@ -70,12 +70,12 @@ const Page3 = () => {
             height={350}
             className="profilephoto absolute scale-[0.8]  tablet:top-[-4%] laptop:top-[-5%]  h-[60vw] w-[46vw] tablet:h-[45.2vw] tablet:w-[34.5vw] laptop:h-[30.2vw] laptop:w-[23.5vw] rounded-full "
           />
-          <h3 className="name absolute text-[5vw] laptop:text-[2vw] font-stratos bottom-[1.5vw] text-center underline underline-offset-8 ">
+          <h3 className="name absolute text-[5vw] laptop:text-[2vw] font-stratos bottom-[1.5vw] text-white text-center underline underline-offset-8 ">
             Dr. Manpreet
           </h3>
         </div>
         <div className="w-[100%] laptop:w-[160%] h-[55%] laptop:h-full right flex flex-col items-center justify-center px-[2vw] py-[15vw] laptop:py-0 gap-[7vw] tablet:gap-[4vw] laptop:gap-[2vw] ">
-          <p className="docinfo w-full text-[4vw] tablet:text-[3.5vw] laptop:text-[1.8vw] font-rules text-center ">
+          <p className="docinfo w-full text-[4vw] tablet:text-[3.5vw] laptop:text-[1.8vw] font-rules text-center text-white ">
             For further clinical evaluation and research, the APA is offering a
             number of “emerging measures” in Section III of DSM-5-TR. These
             patient assessment measures were developed to be administered at the

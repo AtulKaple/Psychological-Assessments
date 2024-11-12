@@ -52,7 +52,7 @@ const Page4 = () => {
       className="forthPage relative h-[101vh] tablet:h-[150vh] laptop:h-screen w-full flex flex-col items-center justify-center gap-[5vw] laptop:gap-[3vw] "
     >
       <div className="overflow-hidden z-50   ">
-        <h3 className="assessment font-stratos text-[10vw] leading-[10vw] laptop:text-[6vw] laptop:leading-[6vw] ">
+        <h3 className="assessment font-stratos text-[10vw] leading-[10vw] laptop:text-[6vw] laptop:leading-[6vw] text-white ">
           ASSESSMENTS
         </h3>
       </div>
